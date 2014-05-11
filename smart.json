@@ -1,0 +1,9 @@
+{
+    "name": "facebook-node-sdk",
+    "description": "Wrapper for the facebook-node-sdk npm package - https://www.npmjs.org/package/facebook-node-sdk",
+    "homepage": "https://github.com/timbroddin/meteor-facebook-node-sdk",
+    "author": "Tim Broddin",
+    "version": "0.1.0",
+    "git": "https://github.com/timbroddin/meteor-facebook-node-sdk.git",
+    "packages": {}
+}
