@@ -18,7 +18,7 @@ This only brings the methods needed to access the API. For login flow use accoun
 If you don't put this in settings.json, you'll have to init this yourself:
 
 	var facebook = new Facebook({
-        appID: 'XXXXXXXXX',
+        appId: 'XXXXXXXXX',
         secret: 'XXXXXXXXXXXXX'
     });
 
