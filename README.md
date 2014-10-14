@@ -20,7 +20,7 @@ If you don't put this in settings.json, you'll have to init this yourself:
 	var facebook = new Facebook({
         appId: 'XXXXXXXXX',
         secret: 'XXXXXXXXXXXXX'
-    });
+    }).setAccessToken('access token');
 
 
 ##Installation
